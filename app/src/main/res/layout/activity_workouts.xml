@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gym_colleague_menubg_2nd"
+    tools:context=".WorkoutActivity">
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="331dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="56dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:text="@string/preference"
+        android:textColor="#FFFFFF"
+        android:textSize="30sp"
+        app:fontFamily="@font/anton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/wrkout_scr_b1"
+        android:layout_width="327dp"
+        android:layout_height="69dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="92dp"
+        android:background="@drawable/bottons_of_main_screen"
+        android:includeFontPadding="true"
+        android:onClick="openMuscle"
+        android:text="@string/muscle_building"
+        android:textSize="22sp"
+
+        app:fontFamily="@font/archivo_black"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView6" />
+
+    <Button
+        android:id="@+id/wrkout_scr_b2"
+        android:layout_width="327dp"
+        android:layout_height="69dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginLeft="24dp"
+        android:layout_marginBottom="236dp"
+        android:background="@drawable/bottons_of_main_screen"
+        android:text="@string/fat_loss"
+        android:textSize="22sp"
+        app:fontFamily="@font/archivo_black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="80dp"
+        android:layout_height="58dp"
+        android:layout_marginBottom="113dp"
+        android:contentDescription="@string/todo1"
+        app:layout_constraintBottom_toTopOf="@+id/wrkout_scr_b2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/wrkout_scr_b1"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0"
+        app:srcCompat="@drawable/muscle_build_button_icon_removebg_preview" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="80dp"
+        android:layout_height="58dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginRight="1dp"
+        android:layout_marginBottom="125dp"
+        android:contentDescription="@string/todo2"
+        app:layout_constraintBottom_toTopOf="@+id/wrkout_scr_b2"
+        app:layout_constraintEnd_toStartOf="@+id/wrkout_scr_b1"
+        app:layout_constraintHorizontal_bias="0.049"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/wrkout_scr_b1"
+        app:layout_constraintVertical_bias="0.842"
+        app:srcCompat="@drawable/left_muscle" />
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="93dp"
+        android:layout_height="64dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginLeft="24dp"
+        android:layout_marginTop="120dp"
+        android:contentDescription="@string/todo3"
+        app:layout_constraintBottom_toTopOf="@+id/wrkout_scr_b2"
+        app:layout_constraintEnd_toStartOf="@+id/wrkout_scr_b2"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/wrkout_scr_b1"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/cardio1_removebg_preview" />
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="93dp"
+        android:layout_height="64dp"
+        android:layout_marginTop="120dp"
+        android:layout_marginEnd="9dp"
+        android:layout_marginRight="9dp"
+        android:contentDescription="@string/todo4"
+        app:layout_constraintBottom_toTopOf="@+id/wrkout_scr_b2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/wrkout_scr_b2"
+        app:layout_constraintTop_toBottomOf="@+id/wrkout_scr_b1"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/cardio2_removebg_preview" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,110 @@
+<resources>
+    <string name="app_name">Gym Colleague</string>
+    <string name="welcome">Welcome</string>
+    <string name="welcome_des">Hey there are you excited for this Roller-Coaster ride from Fat to Fit.Well Hardwork always Pays Off,
+    and Here i am as your Gym Colleague to ease your journey by manging your whole chart of day to day workout right from the sratch to a lean
+    muscular body,so what are you waiting for, </string>
+    <string name="welcome_quote">Lets start the Engine and Press the Accelerator!</string>
+    <string name="todo">TODO</string>
+    <string name="start_workout">Start Workout</string>
+    <string name="fat_loss">Cardio</string>
+    <string name="muscle_building">Muscle Building</string>
+    <string name="warm_up_chart">Warm Up Chart</string>
+    <string name="goto_workouts">Go to Workouts</string>
+    <string name="preference">What do you prefer today?</string>
+    <string name="quick_start_warmup">Quick start With Warm_Up ?</string>
+    <string name="nutrition_plan">Nutrition Plan</string>
+    <string name="day_1_warmup">Day 1</string>
+    <string name="day_7_warmup">Day 7</string>
+    <string name="day_6_warmup">Day 6</string>
+    <string name="day_5_warmup">Day 5</string>
+    <string name="day_2_warmup">Day 2</string>
+    <string name="day_3_warmup">Day 3</string>
+    <string name="day_4_warmup">Day 4</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="warm_up_day1">Warm-Up Day 1</string>
+    <string name="warm_up_day2">Warm-Up Day 2</string>
+    <string name="warm_up_day3">Warm-Up Day 3</string>
+    <string name="warm_up_day4">Warm-Up Day 4</string>
+    <string name="warm_up_day5">Warm-Up Day 5</string>
+    <string name="warm_up_day6">Warm-Up Day 6</string>
+    <string name="warm_up_day7">Warm-Up Day 7</string>
+    <string name="warmupex1">Squats</string>
+    <string name="warmupex1_no">x16</string>
+    <string name="warmupex2">High Stepping</string>
+    <string name="warmupex2_no">30 Sec</string>
+    <string name="warmupex3">PUSH-UPS</string>
+    <string name="warmupex3_no">x10</string>
+    <string name="warmupex4">Jumping Jacks</string>
+    <string name="warmupex5">Triceps Dips</string>
+    <string name="warmupex6">Mountain Climber</string>
+    <string name="warmupex7">Flutter Kicks</string>
+    <string name="warmupex8">Abdominal Crunches</string>
+    <string name="warmupex9">Arm Circles</string>
+    <string name="warmupex10">Side Leg Swings</string>
+    <string name="warmupex11">BodyWeight Squats</string>
+    <string name="_01_00">01:00</string>
+    <string name="_02_00">02:00</string>
+    <string name="_03_30">03:30</string>
+    <string name="x20">x20</string>
+    <string name="x32_es">x32 (Each side 16)</string>
+    <string name="x16_es">x16 (Each side 8)</string>
+    <string name="workout_chart">Workouts Chart</string>
+    <string name="workout_day1">Workout Day 1</string>
+    <string name="workout_day2">Workout Day 2</string>
+    <string name="workout_day3">Workout Day 3</string>
+    <string name="workout_day4">Workout Day 4</string>
+    <string name="workout_day5">Workout Day 5</string>
+    <string name="workout_day6">Workout Day 6</string>
+    <string name="workout_day7">Workout Day 7</string>
+    <string name="day_1_workout">Day 1 \u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020
+        \u0020\u0020\u0020\u0020\u0020\u0020Chest</string>
+    <string name="day_7_workout">Day 7\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020
+        \u0020\u0020\u0020\u0020\u0020\u0020REST</string>
+    <string name="day_6_workout">Day 6\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020
+        \u0020\u0020\u0020\u0020\u0020\u0020Legs</string>
+    <string name="day_5_workout">Day 5\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020
+        \u0020\u0020\u0020Back/Abs</string>
+    <string name="day_2_workout">Day 2\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020
+        \u0020\u0020\u0020\u0020\u0020\u0020Biceps</string>
+    <string name="day_3_workout">Day 3\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020
+        \u0020\u0020\u0020\u0020\u0020\u0020Triceps</string>
+    <string name="day_4_workout">Day 4\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020
+        \u0020\u0020Shoulders</string>
+    <string name="chest_day">Chest Day</string>
+    <string name="the_bench_press">The Bench Press</string>
+    <string name="close_grip_bench_press">Close-Grip Bench Press</string>
+    <string name="inclined_bench_press">Inclined Dumbled Press</string>
+    <string name="decp">Sets: 15-12-10-8 Start with Lower Weights to Higher weights as per your capability.</string>
+    <string name="dumbled_press">Dumbled Press</string>
+    <string name="declined_bench_press">Declined Bench Press</string>
+    <string name="bar_dips_parallel">Bar Dips(Parallel)</string>
+    <string name="you_can_increase_each_set_by_3_on_gaining_strength">You can increase each set by 3 on gaining strength.</string>
+    <string name="inclined_barbell_curl">Inclined Barbell Curl</string>
+    <string name="biceps_day">Biceps Day</string>
+    <string name="barbell_biceps_curl">Barbell Biceps Curl</string>
+    <string name="dumbbel_concentrated_curls">Dumbbel Concentrated curls</string>
+    <string name="inclined_dumbbled_curls">Inclined Dumbbled Curls</string>
+    <string name="barbell_peacher_curls">Barbell Peacher Curls</string>
+    <string name="dumbbled_hammer_curls">Dumbbled Hammer Curls</string>
+    <string name="dumbbled_bicep_curls">Dumbbled Bicep Curls</string>
+    <string name="cable_biceps_curls">Cable Biceps Curls</string>
+    <string name="hyperbench_rope_push_down">Hyperbench Rope Push Down</string>
+    <string name="overhead_dumbbell_extension">Overhead Dumbbell Extension</string>
+    <string name="triceps_dips">Triceps Dips</string>
+    <string name="v_bar_push_down">V Bar Push Down</string>
+    <string name="one_arm_tricep_extentions">One arm Tricep Extentions</string>
+    <string name="diamond_push_ups">Diamond Push-ups</string>
+    <string name="triceps_day">Triceps Day</string>
+    <string name="seated_shoulder_shrugs">Seated Shoulder Shrugs</string>
+    <string name="dumbbell_front_raises">Dumbbell Front Raises</string>
+    <string name="side_lateral_raises">Side Lateral Raises</string>
+    <string name="upright_rows">Upright Rows</string>
+    <string name="overhead_lift">Overhead Lift</string>
+    <string name="shoulders_day">Shoulders Day</string>
+    <string name="barbell_front_raise">Barbell Front Raise</string>
+    <string name="seated_shoulder_press">Seated Shoulder Press</string>
+</resources>
